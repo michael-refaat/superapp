@@ -1,6 +1,8 @@
 superapp
 ========
 
+Console application to get a cart of products and print invoice, built with **Laravel Zero Framework**, **Pest Framework**, and **SQLite**
+
 Technical Choices
 -----------------
 
